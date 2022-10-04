@@ -26,7 +26,15 @@
 // const social ="media"
 // console.log(typeof social)
 
-// Arithematic Operator
+
+// Operator
+// Arithmetic Operator (+, -, *, /, %, ++, --)
+// Assignment Operators (=, +=, -=, *=, /=, %=)
+// Comparison Operators (==, !=, >, <, >=, <=, ?)
+// Logical Operators (&&, ||, !)
+// Bitwise Operators (&, |, >>, <<)
+
+// Arithmatic Operator
 // let a,b,c,c1,c2,c3,c4;
 // a=10
 // b=8
@@ -55,15 +63,8 @@
 // console.log(a<b, a==c, c!=d)
 
 // Logical Operator
-let x,y,z
-x=12
-y=34
-z=3
-x && y
-
-
-
-
-
-
+// let x,y,z
+// x=12
+// y=34
+// z=3
 
